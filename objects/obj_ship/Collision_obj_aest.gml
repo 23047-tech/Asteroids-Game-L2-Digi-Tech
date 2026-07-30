@@ -1,4 +1,4 @@
-Lives -= 1;
+Lives =- 1;
 instance_destroy();
 
 repeat(10){
