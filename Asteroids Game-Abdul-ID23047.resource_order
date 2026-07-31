@@ -8,6 +8,7 @@
     {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},
     {"name":"rm_start","order":1,"path":"rooms/rm_start/rm_start.yy",},
     {"name":"rm_win","order":2,"path":"rooms/rm_win/rm_win.yy",},
+    {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_debris","order":2,"path":"sprites/spr_debris/spr_debris.yy",},
     {"name":"spr_rock_medium","order":1,"path":"sprites/spr_rock_medium/spr_rock_medium.yy",},
   ],
