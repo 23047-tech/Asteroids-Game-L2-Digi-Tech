@@ -1,4 +1,4 @@
-Score += 10;
+score += 10;
 
 instance_destroy();
 
@@ -7,13 +7,13 @@ with(other){
 	
 	if(sprite_index == spr_rock_big){
 		repeat(2){
-			var new_asteroid = instance_create_layer(X,M, "Instances" , obj_asteroid);
+			var new_asteroid = instance_create_layer(x,y, "Instances" , obj_aest);
 			new_asteroid. sprite_index = spr_rock_medium;
 		
 		}
 	} else if ((sprite_index == spr_rock_medium)){
 		repeat(2){
-	var new_asteroid = instance_create_layer(X,M, "Instances" , obj_asteroid);
+	var new_asteroid = instance_create_layer(x,y, "Instances" , obj_aest);
 	new_asteroid. sprite_index = spr_rock_small;
 		}
 	}
