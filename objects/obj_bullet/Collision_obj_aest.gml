@@ -1,4 +1,5 @@
 score += 10;
+audio_play_sound(Aest_destroy_sound, 1, false);
 
 instance_destroy();
 
