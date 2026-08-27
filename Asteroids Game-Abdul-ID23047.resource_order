@@ -9,13 +9,8 @@
     {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},
     {"name":"rm_start","order":1,"path":"rooms/rm_start/rm_start.yy",},
     {"name":"rm_win","order":2,"path":"rooms/rm_win/rm_win.yy",},
-    {"name":"Aest_destroy_sound","order":1,"path":"sounds/Aest_destroy_sound/Aest_destroy_sound.yy",},
-    {"name":"song_game","order":2,"path":"sounds/song_game/song_game.yy",},
     {"name":"spr_background","order":3,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_debris","order":2,"path":"sprites/spr_debris/spr_debris.yy",},
     {"name":"spr_rock_medium","order":1,"path":"sprites/spr_rock_medium/spr_rock_medium.yy",},
-    {"name":"star_field_0","order":6,"path":"sprites/star_field_0/star_field_0.yy",},
-    {"name":"star_field_1","order":5,"path":"sprites/star_field_1/star_field_1.yy",},
-    {"name":"star_field_2","order":4,"path":"sprites/star_field_2/star_field_2.yy",},
   ],
 }
