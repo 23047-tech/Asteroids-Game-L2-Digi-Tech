@@ -9,8 +9,8 @@
   "name":"obj_ship",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Ally",
+    "path":"folders/Objects/Ally.yy",
   },
   "parentObjectId":null,
   "persistent":false,
