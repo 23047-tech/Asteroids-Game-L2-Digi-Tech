@@ -1,3 +1,5 @@
+event_inherited();
+
 sprite_index = choose( 
 	spr_rock_small, spr_rock_medium,
 	spr_rock_big

@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":51.226124,
+  "duration":1.2182993,
   "exportDir":"",
   "name":"song_game",
   "parent":{

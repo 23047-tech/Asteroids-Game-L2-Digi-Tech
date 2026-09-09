@@ -6,10 +6,13 @@
   "name":"obj_par_enemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"enemy group",
-    "path":"folders/Objects/enemy group.yy",
+    "name":"Enemy",
+    "path":"folders/Objects/Enemy.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_faction_enemy",
+    "path":"objects/obj_faction_enemy/obj_faction_enemy.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -3,7 +3,7 @@ if(keyboard_check(vk_left)){
 }
 
 if(keyboard_check(vk_right)){
-	image_angle = image_angle + 5;
+	image_angle = image_angle - 5;
 }
 
 if(keyboard_check(vk_up)){
@@ -11,7 +11,6 @@ if(keyboard_check(vk_up)){
 }
 
 if(keyboard_check_pressed(vk_space)){
-	var inst = instance_create_layer(x,y,  "Instances" , obj_bullet);
-	inst. direction = image_angle;
+	create_bullet (image_angle, bulletSpd , faction, id);
 }
 move_wrap(true,true,sprite_width/2);
