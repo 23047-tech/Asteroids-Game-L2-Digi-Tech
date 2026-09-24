@@ -13,4 +13,4 @@ if(keyboard_check(vk_up)){
 if(keyboard_check_pressed(vk_space)){
 	create_bullet (image_angle, bulletSpd , faction, id);
 }
-move_wrap(true,true,sprite_width/2);
+
